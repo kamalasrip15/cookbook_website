@@ -79,18 +79,3 @@ PlanZilla is a web application that simplifies calendar management by integratin
 PlanZilla is live and ready to use! Access the deployed application here:
 - **Live Deployment**: [PlanZilla on Render](https://planzilla2-0.onrender.com)
 - Note : Your browser should not have any extensions enabled and clear the cache or try incognito mode, in case the site doesn't work Ctrl+F5.
-
-## Demo
-
-Watch a short video demonstrating the features and functionality of PlanZilla:
-- **Demo Video**: [PlanZilla Demo](https://www.youtube.com/watch?v=2UdP7BsIgmo)
-
-
-## Future Enhancements
-
-- Event creation and editing directly from PlanZilla.
-- Multi-calendar support for managing multiple Google Calendar accounts.
-- Notifications and reminders for upcoming events.
-- Dark mode for better accessibility.
-
----
